@@ -1,0 +1,18 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "Simple Node.js Hello World app for testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "Test User",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "axios": "^1.7.2"
+  }
+}
